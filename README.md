@@ -3,9 +3,9 @@
 Hi, and welcome to my GitHub profile!
 
 ## Profile
-I’m a Bachelor of Computer Science student at Monash University with a strong interest in software engineering, artificial intelligence, and mobile and web application development. I enjoy building practical, real-world systems and applying clean architecture principles to create scalable and maintainable software.
+I’m a Bachelor of Computer Science student at Monash University with a strong interest in software engineering, artificial intelligence, and mobile and web application development. I enjoy building practical, real-world systems and applying clean architecture principles to create scalable and maintainable software, while developing my skills in cloud computing and technology consulting.
 
-Through university projects, hackathons, and industry experience, I have developed skills across full-stack development, Android app development, and backend systems, with a growing focus on AI-powered applications.
+Since undertaking my studies in 2023, I have had the opportunity to explore and immerse myself in various domains of information technology, allowing me to strengthen my technical foundation while developing a strong interest in agile development and scalable systems design. In 2025, I aim to further build my skills in cloud computing and networked systems while working on software projects that challenge and expand my capabilities, with the goal of pursuing a career in technology consulting.
 
 ## Projects & Learning
 I am constantly building and refining my technical abilities through coursework, hackathons, and personal projects. Some of my key projects include:
